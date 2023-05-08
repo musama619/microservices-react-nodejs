@@ -1,0 +1,1 @@
+To open diagrams use [draw.io](https://app.diagrams.net/)
