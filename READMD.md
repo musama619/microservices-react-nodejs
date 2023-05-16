@@ -7,4 +7,13 @@
 
 **List all pods:** `kubectl get pods`
 
-**Delete deployment:** `k delete deployment <deployment-name>`
+**Delete deployment:** `k delete deployment <deployment-name>` 
+
+`kubectl get service ingress-nginx-controller --namespace=ingress-nginx`
+
+To set hostname go to 
+> C:/Windows/System32/drivers/etc/hosts
+
+and set 
+`127.0.0.1 posts.com
+::1 posts.com`
